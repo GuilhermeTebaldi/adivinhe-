@@ -493,58 +493,58 @@
       },
       {
         "objeto": "bandeira da Itália",
-        "aliases": ["italia", "itália", "italy flag", "bandeira italia"],
+        "aliases": ["italia", "itália", "italy flag", " italia"],
         "cor": "verde, branco e vermelho",
         "comestivel": "não",
-        "local": "Itália",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/1200x/21/ac/06/21ac06c9ee99b5498999622cd3e0e897.jpg"
       },
       {
         "objeto": "bandeira do Brasil",
-        "aliases": ["brasil", "brazil flag", "bandeira brasil"],
+        "aliases": ["brasil", "brazil flag", "brasil"],
         "cor": "verde, amarelo, azul e branco",
         "comestivel": "não",
-        "local": "Brasil",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/736x/8e/d5/8f/8ed58f8f90fcefe80c4ee3f26a9d1a92.jpg"
       },
       {
         "objeto": "bandeira da Argentina",
-        "aliases": ["argentina", "argentina flag", "bandeira argentina"],
+        "aliases": ["argentina", "argentina flag", " argentina"],
         "cor": "celeste, branco e dourado",
         "comestivel": "não",
-        "local": "Argentina",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/736x/de/8e/91/de8e914e6b9afbc62c2a6fc780532674.jpg"
       },
       {
         "objeto": "bandeira do Japão",
-        "aliases": ["japao", "japão", "japan flag", "bandeira japao"],
+        "aliases": ["japao", "japão", "japan flag", "japao"],
         "cor": "branco e vermelho",
         "comestivel": "não",
-        "local": "Japão",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/736x/d6/66/7b/d6667be3a4e36a2b9838be036f435431.jpg"
       },
       {
         "objeto": "bandeira dos Estados Unidos",
-        "aliases": ["eua", "usa", "estados unidos", "us flag", "bandeira estados unidos"],
+        "aliases": ["eua", "usa", "estados unidos", "us flag", " estados unidos"],
         "cor": "vermelho, branco e azul",
         "comestivel": "não",
-        "local": "Estados Unidos",
+        "local": "EBandeira",
         "imagem": "https://i.pinimg.com/736x/50/5f/bd/505fbd65cab9e9802c013f0f25a8e98f.jpg"
       },
       {
         "objeto": "bandeira do Canadá",
-        "aliases": ["canada", "canadá", "canada flag", "bandeira do canada"],
+        "aliases": ["canada", "canadá", "canada flag", "do canada"],
         "cor": "vermelho e branco",
         "comestivel": "não",
-        "local": "Canadá",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/1200x/8d/4e/11/8d4e1195a4a40159480cf10c6bdf68e0.jpg"
       },
       {
         "objeto": "bandeira da Arábia Saudita",
-        "aliases": ["arabia saudita", "arábia saudita", "saudi arabia flag", "bandeira da arabea"],
+        "aliases": ["arabia saudita", "arábia saudita", "saudi arabia flag", "da arabea"],
         "cor": "verde e branco",
         "comestivel": "não",
-        "local": "Arábia Saudita",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/1200x/7e/3b/a4/7e3ba4d39f52816f694d8ada1807b5dc.jpg"
       },{
         "objeto": "drone",
@@ -567,7 +567,7 @@
         "aliases": ["sk8", "patinete"],
         "cor": "variadas",
         "comestivel": "não",
-        "local": "pista de skate",
+        "local": "pista - parque",
         "imagem": "https://i.pinimg.com/736x/e7/fe/47/e7fe477e80398febae52ca55c23fe79b.jpg"
       },
       {
