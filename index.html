@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jogo de Adivinhação</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<main class="container">
+  <header class="hero">
+    <div class="hero-badge">👑</div>
+    <div>
+      <h1>Adivinhe!</h1>
+      <p class="tagline">Adivinhe o objeto, peça até 3 dicas e marque pontos.</p>
+    </div>
+  </header>
+
+  <section class="scoreboard">
+    <div class="score-item">Pontuação da rodada: <span id="roundScore">0</span></div>
+    <div class="score-item">Pontuação Total: <span id="totalScore">0</span></div>
+    <div class="score-item">Dicas: <span id="hintsUsed">0</span> / 3</div>
+  </section>
+
+  <section class="game-panel">
+    <div class="status" id="status">Tente adivinhar o objeto. Peça dicas se precisar.</div>
+
+    <div class="guess-row">
+      <input id="guessInput" type="text" placeholder="Escreva seu palpite" autocomplete="off" />
+      <button id="guessBtn" class="btn btn-primary">Chutar</button>
+    </div>
+
+    <div class="hints">
+      <button id="hintBtn" class="btn btn-secondary">Pedir dica</button>
+      <ul id="hintsList" class="hints-list"></ul>
+    </div>
+
+    <div class="result" id="result"></div>
+
+    <!-- removido image-wrap interno para não duplicar -->
+    <div class="controls">
+      <button id="skipBtn" class="btn" title="Pular para o próximo" disabled>Pular</button>
+      <button id="clearScoreBtn" class="btn" title="Zerar pontuação">Limpar pontuação</button>
+    </div>
+  </section>
+
+  <footer id="footer" style="margin-top:12px; color:var(--muted); font-size:13px;">
+    <span id="dataInfo">Carregando dados...</span>
+  </footer>
+</main>
+
+<!-- BARRA FLUTUANTE NO CENTRO DA TELA -->
+<div id="imageWrap" class="image-wrap overlay hidden">
+    <div class="img-frame">
+      <span class="crown">👑</span>
+      <img id="objectImg" alt="Imagem do objeto" />
+    </div>
+    <button id="newRoundBtn" class="btn btn-royal" disabled>Próximo Jogo</button>
+  </div>
+  
+<script type="module" src="game.js"></script>
+</body>
+</html>

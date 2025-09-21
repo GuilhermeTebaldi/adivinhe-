@@ -1,0 +1,9 @@
+.
+├── data
+│   └── objetos.json
+├── estrutura_pastas.txt
+├── game.js
+├── index.html
+└── style.css
+
+2 directories, 5 files

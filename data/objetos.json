@@ -1,0 +1,718 @@
+[
+    {
+      "objeto": "guarda-roupa",
+      "aliases": ["guardaroupa", "armario", "armário"],
+      "cor": "diversas",
+      "comestivel": "não",
+      "local": "quarto",
+      "imagem": "https://i.pinimg.com/1200x/39/40/54/3940547e1a27bb51dfea3f8c67d29a61.jpg"
+    },
+    {
+      "objeto": "piscina",
+      "aliases": ["piscininha"],
+      "cor": "azul",
+      "comestivel": "não",
+      "local": "área externa",
+      "imagem": "https://i.pinimg.com/736x/7f/72/df/7f72df057dc2bbaf4e43f06790b0cce5.jpg"
+    },
+    {
+      "objeto": "maçã",
+      "aliases": ["maca", "maça", "apple"],
+      "cor": "vermelha ou verde",
+      "comestivel": "sim",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/1200x/82/ff/a6/82ffa647c3bb7108cb6b32a5e6e59677.jpg"
+    },
+    {
+      "objeto": "sofá",
+      "aliases": ["sofa"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "sala de estar",
+      "imagem": "https://i.pinimg.com/1200x/0c/41/14/0c411428f1c1ae862adb4b02218c2426.jpg"
+    },
+    {
+      "objeto": "lápis",
+      "aliases": ["lapis"],
+      "cor": "Diversas corres, é mais utilizado preto",
+      "comestivel": "não",
+      "local": "escritório",
+      "imagem": "https://i.pinimg.com/1200x/03/03/85/030385c20088021c0b0767b0e8e806da.jpg"
+    },
+    {
+      "objeto": "banana",
+      "aliases": ["bananinha"],
+      "cor": "amarela",
+      "comestivel": "sim",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/1200x/e2/ae/7b/e2ae7be2bc7647062f396f2a77da5f39.jpg"
+    },
+    {
+      "objeto": "bola",
+      "aliases": ["bolinha"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "quintal",
+      "imagem": "https://i.pinimg.com/1200x/4a/80/cb/4a80cb1c81d37601cf50788d3496dde5.jpg"
+    },
+    {
+      "objeto": "saia",
+      "aliases": ["saia", "saiote", "skirt"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "guarda-roupa",
+      "imagem": "https://i.pinimg.com/736x/97/09/c4/9709c49befe2504586059404d2b0c8b7.jpg"
+    },
+    {
+      "objeto": "meia",
+      "aliases": ["meia", "par de meias", "meias", "sock", "socks"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "gaveta",
+      "imagem": "https://i.pinimg.com/736x/94/56/e2/9456e2558101ca861c1e9df3d6684c8f.jpg"
+    },
+    {
+      "objeto": "guarda-chuva",
+      "aliases": ["guarda chuva", "sombrinha", "umbrella"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "hall de entrada",
+      "imagem": "https://i.pinimg.com/736x/4d/6f/9b/4d6f9b3c09092e8007da9646478f40c4.jpg"
+    },
+    {
+      "objeto": "travesseiro",
+      "aliases": ["almofada", "pillow"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "cama",
+      "imagem": "https://i.pinimg.com/1200x/24/9d/33/249d3360ae6c48ea34a536c221bdc83c.jpg"
+    },
+    {
+      "objeto": "cobertor",
+      "aliases": ["coberta", "edredom", "lençol", "lencol", "blanket"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "cama",
+      "imagem": "https://i.pinimg.com/1200x/6e/50/81/6e5081481c7ba227b2e606ed670f053b.jpg"
+    },
+    {
+      "objeto": "ventilador",
+      "aliases": ["ventoinha", "fan"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "quarto",
+      "imagem": "https://i.pinimg.com/736x/af/2d/83/af2d83a8d0e6a3fa28384e513a0e03ce.jpg"
+    },
+    {
+      "objeto": "geladeira",
+      "aliases": ["refrigerador", "fridge"],
+      "cor": "branca ou variadas",
+      "comestivel": "não",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/736x/94/37/e0/9437e0893623c1027176d4be2fa23e8e.jpg"
+    },
+    {
+      "objeto": "micro-ondas",
+      "aliases": ["microondas", "forno microondas", "microwave"],
+      "cor": "branco ou prata",
+      "comestivel": "não",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/1200x/28/22/a3/2822a3c2c507f5c94b2812036233d97f.jpg"
+    },
+    {
+      "objeto": "máquina de lavar",
+      "aliases": ["maquina de lavar", "lavadora"],
+      "cor": "branca ou prata",
+      "comestivel": "não",
+      "local": "lavanderia",
+      "imagem": "https://i.pinimg.com/736x/34/84/27/348427bf43beef4d1c02cb579183dd6d.jpg"
+    },
+    {
+      "objeto": "liquidificador",
+      "aliases": ["blender"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/736x/1d/e6/4b/1de64bfe8332a141cce75d314cd1c8e9.jpg"
+    },
+    {
+      "objeto": "relógio",
+      "aliases": ["relogio", "clock", "watch"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "parede",
+      "imagem": "https://i.pinimg.com/736x/9f/27/de/9f27dee3858439158fba1a358d8b50e9.jpg"
+    },
+    {
+      "objeto": "violão",
+      "aliases": ["violao", "guitarra acústica"],
+      "cor": "marrom ou variadas",
+      "comestivel": "não",
+      "local": "sala, quarto ou estúdio",
+      "imagem": "https://i.pinimg.com/736x/22/d8/8e/22d88e103e8539b8dbabbdef7e4be5a8.jpg"
+    },
+    {
+      "objeto": "lixeiro",
+      "aliases": ["lixeira", "cesto de lixo"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "cozinha ou quintal",
+      "imagem": "https://i.pinimg.com/736x/84/b2/58/84b258ea55f8456af60c0ed11aacd5e1.jpg"
+    },
+    {
+      "objeto": "janela",
+      "aliases": ["window"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "parede",
+      "imagem": "https://i.pinimg.com/736x/11/d7/46/11d746e1cf544623747a07c341023348.jpg"
+    },
+    {
+      "objeto": "porta",
+      "aliases": ["door"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "parede",
+      "imagem": "https://i.pinimg.com/1200x/b0/3b/18/b03b18306086fb6d1b85d8af30c5c216.jpg"
+    },
+    {
+      "objeto": "cadeira",
+      "aliases": ["chair"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "sala ou cozinha",
+      "imagem": "https://i.pinimg.com/736x/1e/0c/d6/1e0cd695d899ba842c4a13ebc1a1b66d.jpg"
+    },
+    {
+      "objeto": "televisão",
+      "aliases": ["tv", "televisao"],
+      "cor": "preta ou variadas",
+      "comestivel": "não",
+      "local": "sala",
+      "imagem": "https://i.pinimg.com/736x/11/f3/5c/11f35cbd391116cca8075b438b6ad50f.jpg"
+    },
+    {
+      "objeto": "controle remoto",
+      "aliases": ["controle", "remote"],
+      "cor": "preto",
+      "comestivel": "não",
+      "local": "sala",
+      "imagem": "https://i.pinimg.com/736x/21/af/ce/21afceff12dd7a0eb420036798d57c10.jpg"
+    },
+    {
+      "objeto": "celular",
+      "aliases": ["telefone", "smartphone", "phone"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "bolso ou mesa",
+      "imagem": "https://i.pinimg.com/736x/ef/e7/0d/efe70dba1c6ad363102341d0f75aa01d.jpg"
+    },
+    {
+      "objeto": "dinheiro",
+      "aliases": ["grana", "nota", "money"],
+      "cor": "verde ou variadas",
+      "comestivel": "não",
+      "local": "carteira",
+      "imagem": "https://i.pinimg.com/1200x/f4/f9/e6/f4f9e66958b1c5a67b16ba6bb01c8edc.jpg"
+    },
+    {
+      "objeto": "urso de pelúcia",
+      "aliases": ["urso", "ursinho", "pelucia", "teddy bear"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "quarto",
+      "imagem": "https://i.pinimg.com/736x/79/33/dc/7933dc5efd1d4011ab7dcbd38e8a5ca5.jpg"
+    },
+    {
+      "objeto": "pizza",
+      "aliases": ["pizza"],
+      "cor": "variadas",
+      "comestivel": "sim",
+      "local": "cozinha ou geladeira",
+      "imagem": "https://i.pinimg.com/736x/8c/6d/8c/8c6d8c08fae98c13931553535720bb38.jpg"
+    },
+    {
+      "objeto": "Jake",
+      "aliases": ["jack", "jake", "cachorro amarelo", "jake hora de aventura"],
+      "cor": "amarelo",
+      "comestivel": "não",
+      "local": "desenho animado",
+      "imagem": "https://i.pinimg.com/736x/db/e7/20/dbe720d8b1458689256587335bfc6a65.jpg"
+    },
+    {
+      "objeto": "Pikachu",
+      "aliases": ["pikachu", "poke", "pokemon"],
+      "cor": "amarelo",
+      "comestivel": "não",
+      "local": "desenho animado",
+      "imagem": "https://i.pinimg.com/1200x/d7/f1/01/d7f101fd99343404fef06efb5997ea7c.jpg"
+    },
+    {
+      "objeto": "Minions",
+      "aliases": ["minions", "minion"],
+      "cor": "amarelo",
+      "comestivel": "não",
+      "local": "filme e desenho animado",
+      "imagem": "https://i.pinimg.com/736x/71/bb/25/71bb25d757313aec2a357d7b545b5513.jpg"
+    },
+    {
+      "objeto": "Bob Esponja",
+      "aliases": ["bob esponja", "spongebob"],
+      "cor": "amarelo",
+      "comestivel": "não",
+      "local": "fundo do mar",
+      "imagem": "https://i.pinimg.com/736x/29/de/a7/29dea7c0c694059274ded5b5508b780d.jpg"
+    },
+    {
+      "objeto": "picles",
+      "aliases": ["pepino em conserva", "pickle", "pickles"],
+      "cor": "verde",
+      "comestivel": "sim",
+      "local": "cozinha",
+      "imagem": "https://i.pinimg.com/736x/a0/57/8f/a0578fb02ac316e44756fdd8b10c5458.jpg"
+    },
+    {
+      "objeto": "dinossauro",
+      "aliases": ["dino", "dinosaur"],
+      "cor": "variadas",
+      "comestivel": "não",
+      "local": "museu",
+      "imagem": "https://i.pinimg.com/736x/a7/4d/13/a74d130dfa9b811c58f6e00b5b421a83.jpg"
+    }, {
+        "objeto": "Crepper",
+        "aliases": ["minecraft", "mine-craft", "mine", "craft", "mine-craft"],
+        "cor": "verde",
+        "comestivel": "não",
+        "local": "personagem de um jogo quadrado",
+        "imagem": "https://i.pinimg.com/736x/ad/da/ca/addacac12c887d7cd08fc7514e9ad89c.jpg"
+      }, {
+        "objeto": "batman",
+        "aliases": ["bat-man", "mocego", "bat", "homem morcego", "batman"],
+        "cor": "escuro preto",
+        "comestivel": "a china come tmabem tem a ver com o ( covid19 ) ",
+        "local": "personagem de desenho animado",
+        "imagem": " https://i.pinimg.com/736x/ab/0b/f0/ab0bf03f57901952bc067f54978ef8bc.jpg"
+      },
+      {
+        "objeto": "alienígena",
+        "aliases": ["alienigena", "et", "extraterrestre", "alien"],
+        "cor": "verde",
+        "comestivel": "não",
+        "local": "espaço",
+        "imagem": "https://i.pinimg.com/736x/db/92/a5/db92a59d211f81f1c72a533d77f48e5b.jpg"
+      },
+      {
+        "objeto": "fantasma",
+        "aliases": ["assombração", "assombracao", "ghost", "espírito", "espirito"],
+        "cor": "branco",
+        "comestivel": "não",
+        "local": "casa assombrada",
+        "imagem": "https://i.pinimg.com/736x/f3/4f/d7/f34fd7df76987009f481b07953005d4b.jpg"
+      },
+      {
+        "objeto": "wifi",
+        "aliases": ["wi-fi", "wi fi", "internet", "roteador", "sinal de wifi"],
+        "cor": "branco e azul",
+        "comestivel": "não",
+        "local": "casa ou escola normalmente em cima de um balcão ",
+        "imagem": "https://i.pinimg.com/736x/62/70/a9/6270a9ccb5b1bdae5739eafa541e86a4.jpg"
+      },
+      {
+        "objeto": "pato",
+        "aliases": ["patinho", "duck", "marreco"],
+        "cor": "amarelo",
+        "comestivel": "se for vivo sim se for de boracha não",
+        "local": "lago ou fazenda",
+        "imagem": "https://i.pinimg.com/736x/ac/5c/9c/ac5c9c1e201c72f1d116b38f691f3d9f.jpg"
+      },{
+        "objeto": "cafeteira",
+        "aliases": ["café", "cafe", "coffee maker", "coffeepot"],
+        "cor": "preta ou prata",
+        "comestivel": "não",
+        "local": "cozinha",
+        "imagem": "https://i.pinimg.com/736x/fc/9d/e4/fc9de47fcb660b349d53539c8c69bbb5.jpg"
+      },
+      {
+        "objeto": "pipoca",
+        "aliases": ["popcorn", "milho estourado"],
+        "cor": "branca ou amarela",
+        "comestivel": "sim",
+        "local": "cinema ou cozinha",
+        "imagem": "https://i.pinimg.com/736x/25/37/07/253707b55d40161d39dd785018c433c2.jpg"
+      },
+      {
+        "objeto": "batata frita",
+        "aliases": ["fritas", "french fries", "batatinhas"],
+        "cor": "amarela dourada",
+        "comestivel": "sim",
+        "local": "lanchonete",
+        "imagem": "https://i.pinimg.com/736x/69/b6/ea/69b6ea6b1b5f64a67cbb4f56e1610e15.jpg"
+      },
+      {
+        "objeto": "sorvete",
+        "aliases": ["ice cream", "gelado", "picolé"],
+        "cor": "variadas",
+        "comestivel": "sim",
+        "local": "sorveteria",
+        "imagem": "https://i.pinimg.com/736x/46/53/43/465343e5c618059114c8416a45979174.jpg"
+      },
+      {
+        "objeto": "refrigerante",
+        "aliases": ["refri", "soda", "coca", "guaraná"],
+        "cor": "variadas",
+        "comestivel": "sim",
+        "local": "geladeira",
+        "imagem": "https://i.pinimg.com/736x/cb/ed/a7/cbeda788f9d3b281e6736e223c63d38e.jpg"
+      },
+      {
+        "objeto": "salgadinho",
+        "aliases": ["chips", "snack", "suja os dedos"],
+        "cor": "variadas",
+        "comestivel": "sim",
+        "local": "sala ou festa",
+        "imagem": "https://i.pinimg.com/736x/6d/4f/d3/6d4fd3e58038d75e49a5419bb56e06ea.jpg"
+      },
+      {
+        "objeto": "nutella",
+        "aliases": ["creme de avelã", "chocolate"],
+        "cor": "marrom",
+        "comestivel": "sim",
+        "local": "cozinha doce",
+        "imagem": "https://i.pinimg.com/736x/b3/b5/07/b3b50728d3b4899dc30a1093167b52ed.jpg"
+      },
+      {
+        "objeto": "hambúrguer",
+        "aliases": ["hamburguer", "burger", "lanche"],
+        "cor": "variadas",
+        "comestivel": "sim",
+        "local": "lanchonete",
+        "imagem": "https://i.pinimg.com/736x/22/e2/63/22e2637fab35c2f736edfd6e0dfc0eb1.jpg"
+      },
+      {
+        "objeto": "sushi",
+        "aliases": ["rolinho japonês", "japonesa", "sushis"],
+        "cor": "variadas",
+        "comestivel": "sim",
+        "local": "restaurante japonês",
+        "imagem": "https://i.pinimg.com/1200x/4e/a0/77/4ea077b13f65d92d9e22340d3a47b872.jpg"
+      },
+      {
+        "objeto": "ovo",
+        "aliases": ["egg"],
+        "cor": "branco ou marrom",
+        "comestivel": "sim",
+        "local": "cozinha",
+        "imagem": "https://i.pinimg.com/736x/85/60/1a/85601a673a671fdc55c28bb3d5e34226.jpg"
+      },
+      {
+        "objeto": "caramujo",
+        "aliases": ["lesma com concha", "snail", "lesma"],
+        "cor": "marrom",
+        "comestivel": "não",
+        "local": "jardim",
+        "imagem": "https://i.pinimg.com/736x/90/93/f4/9093f499e767b1dde608900a2c38d52f.jpg"
+      },
+      {
+        "objeto": "pantera cor de rosa",
+        "aliases": ["pink panther", "pantera rosa"],
+        "cor": "rosa",
+        "comestivel": "não",
+        "local": "desenho animado",
+        "imagem": "https://i.pinimg.com/736x/f5/f7/75/f5f775675b0d14d9afa6b1d5982a2ef0.jpg"
+      },
+      {
+        "objeto": "Bart Simpson",
+        "aliases": ["bart", "simpsons", "bart simpsons"],
+        "cor": "amarelo",
+        "comestivel": "não",
+        "local": "desenho animado",
+        "imagem": "https://i.pinimg.com/736x/d3/21/e4/d321e4bab4f969f4ef3d7115aa7ca333.jpg"
+      },
+      {
+        "objeto": "cerveja",
+        "aliases": ["beer", "chopp"],
+        "cor": "dourada",
+        "comestivel": "sim",
+        "local": "bar",
+        "imagem": "https://i.pinimg.com/736x/a5/8a/78/a58a78da920fb6d8f3635fbcc9833bd5.jpg"
+      },
+      {
+        "objeto": "cachorro",
+        "aliases": ["dog", "cao", "cãezinho", "pet"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "casa",
+        "imagem": "https://i.pinimg.com/736x/81/5f/c3/815fc36ff8c3fbab07277683d7b39b5e.jpg"
+      },
+      {
+        "objeto": "pomba",
+        "aliases": ["pombinha", "pombo", "dove"],
+        "cor": "branca ou cinza",
+        "comestivel": "normalmente não mais pode sim",
+        "local": "praça ou telhado",
+        "imagem": "https://i.pinimg.com/736x/3a/f4/8e/3af48ecbd1700eb233720dcacd0c3a16.jpg"
+      },
+      {
+        "objeto": "ovelha",
+        "aliases": ["sheep", "cordeiro", "carneiro"],
+        "cor": "branca",
+        "comestivel": "sim se nào for vegano",
+        "local": "fazenda",
+        "imagem": "https://i.pinimg.com/736x/aa/75/5a/aa755a54bf87b1e1718a54c0b3f10eb1.jpg"
+      },{
+        "objeto": "Jesus",
+        "aliases": ["jesus cristo", "cristo", "christ", "jesuscristo"],
+        "cor": "diversas",
+        "comestivel": "não",
+        "local": "religião cristã",
+        "imagem": "https://i.pinimg.com/1200x/1a/4e/34/1a4e3435dfbeeb49c00d595b89a8574a.jpg"
+      },
+      {
+        "objeto": "Deus",
+        "aliases": ["god", "senhor", "criador"],
+        "cor": "diversas",
+        "comestivel": "não",
+        "local": "religião",
+        "imagem": "https://i.pinimg.com/736x/2a/60/06/2a6006b5d3c7a4635f4a5f80f6130342.jpg"
+      },
+      {
+        "objeto": "igreja",
+        "aliases": ["templo", "church", "igreja catolica", "igreja evangélica", "igreja evangelica"],
+        "cor": "diversas",
+        "comestivel": "não",
+        "local": "cidade ou bairro",
+        "imagem": "https://i.pinimg.com/736x/c1/81/00/c181005f7cf079d9e2719c8f665724e4.jpg"
+      },
+      {
+        "objeto": "cruz",
+        "aliases": ["crucifixo", "cruz cristã", "cruz cristA", "cross"],
+        "cor": "marrom ou dourada",
+        "comestivel": "não",
+        "local": "igreja",
+        "imagem": "https://i.pinimg.com/736x/af/3e/d9/af3ed925f22150a35a13a8978fa22ef8.jpg"
+      },
+      {
+        "objeto": "bandeira da Itália",
+        "aliases": ["italia", "itália", "italy flag", "bandeira italia"],
+        "cor": "verde, branco e vermelho",
+        "comestivel": "não",
+        "local": "Itália",
+        "imagem": "https://i.pinimg.com/1200x/21/ac/06/21ac06c9ee99b5498999622cd3e0e897.jpg"
+      },
+      {
+        "objeto": "bandeira do Brasil",
+        "aliases": ["brasil", "brazil flag", "bandeira brasil"],
+        "cor": "verde, amarelo, azul e branco",
+        "comestivel": "não",
+        "local": "Brasil",
+        "imagem": "https://i.pinimg.com/736x/8e/d5/8f/8ed58f8f90fcefe80c4ee3f26a9d1a92.jpg"
+      },
+      {
+        "objeto": "bandeira da Argentina",
+        "aliases": ["argentina", "argentina flag", "bandeira argentina"],
+        "cor": "celeste, branco e dourado",
+        "comestivel": "não",
+        "local": "Argentina",
+        "imagem": "https://i.pinimg.com/736x/de/8e/91/de8e914e6b9afbc62c2a6fc780532674.jpg"
+      },
+      {
+        "objeto": "bandeira do Japão",
+        "aliases": ["japao", "japão", "japan flag", "bandeira japao"],
+        "cor": "branco e vermelho",
+        "comestivel": "não",
+        "local": "Japão",
+        "imagem": "https://i.pinimg.com/736x/d6/66/7b/d6667be3a4e36a2b9838be036f435431.jpg"
+      },
+      {
+        "objeto": "bandeira dos Estados Unidos",
+        "aliases": ["eua", "usa", "estados unidos", "us flag", "bandeira estados unidos"],
+        "cor": "vermelho, branco e azul",
+        "comestivel": "não",
+        "local": "Estados Unidos",
+        "imagem": "https://i.pinimg.com/736x/50/5f/bd/505fbd65cab9e9802c013f0f25a8e98f.jpg"
+      },
+      {
+        "objeto": "bandeira do Canadá",
+        "aliases": ["canada", "canadá", "canada flag", "bandeira do canada"],
+        "cor": "vermelho e branco",
+        "comestivel": "não",
+        "local": "Canadá",
+        "imagem": "https://i.pinimg.com/1200x/8d/4e/11/8d4e1195a4a40159480cf10c6bdf68e0.jpg"
+      },
+      {
+        "objeto": "bandeira da Arábia Saudita",
+        "aliases": ["arabia saudita", "arábia saudita", "saudi arabia flag", "bandeira da arabea"],
+        "cor": "verde e branco",
+        "comestivel": "não",
+        "local": "Arábia Saudita",
+        "imagem": "https://i.pinimg.com/1200x/7e/3b/a4/7e3ba4d39f52816f694d8ada1807b5dc.jpg"
+      },{
+        "objeto": "drone",
+        "aliases": ["dron", "voador", "aeronave"],
+        "cor": "preto ou branco",
+        "comestivel": "não",
+        "local": "céu",
+        "imagem": "https://i.pinimg.com/1200x/e7/a2/83/e7a2834deb0943a4bb929316699236b0.jpg"
+      },
+      {
+        "objeto": "robô",
+        "aliases": ["robo", "robot"],
+        "cor": "cinza ou metálico",
+        "comestivel": "não",
+        "local": "laboratório",
+        "imagem": "https://i.pinimg.com/736x/da/0b/fd/da0bfd0cb00cc720d8e5f3b96f4986e5.jpg"
+      },
+      {
+        "objeto": "skate",
+        "aliases": ["sk8", "patinete"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "pista de skate",
+        "imagem": "https://i.pinimg.com/736x/e7/fe/47/e7fe477e80398febae52ca55c23fe79b.jpg"
+      },
+      {
+        "objeto": "bateria",
+        "aliases": ["instrumento musical", "drums"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "palco",
+        "imagem": "https://i.pinimg.com/736x/c3/d9/58/c3d9583e6190ed2af4cc51ddc73dba5e.jpg"
+      },
+      {
+        "objeto": "garfo",
+        "aliases": ["talher", "fork"],
+        "cor": "prata",
+        "comestivel": "não",
+        "local": "cozinha",
+        "imagem": "https://i.pinimg.com/736x/c4/d7/a9/c4d7a92d9af9175c396d0f76fe66d635.jpg"
+      },
+      {
+        "objeto": "sapo",
+        "aliases": ["frog", "perereca", "rã", "ra"],
+        "cor": "verde",
+        "comestivel": "não",
+        "local": "pântano",
+        "imagem": "https://i.pinimg.com/736x/f7/29/2b/f7292b9c3fb13414b20ea6a430359e8f.jpg"
+      },
+      {
+        "objeto": "macaco",
+        "aliases": ["chimpanzé", "gorila", "monkey"],
+        "cor": "marrom",
+        "comestivel": "não",
+        "local": "floresta",
+        "imagem": "https://i.pinimg.com/736x/b6/46/b0/b646b057c51050a1493b30e58a29708f.jpg"
+      },
+      {
+        "objeto": "burro",
+        "aliases": ["jegue", "jumento"],
+        "cor": "cinza",
+        "comestivel": "não",
+        "local": "fazenda",
+        "imagem": "https://i.pinimg.com/736x/20/c5/4b/20c54b134e2e3a1e4b246f52fbea8e0c.jpg"
+      },
+      {
+        "objeto": "boi",
+        "aliases": ["touro", "vaca macho"],
+        "cor": "marrom ou preto",
+        "comestivel": "não",
+        "local": "fazenda",
+        "imagem": "https://i.pinimg.com/736x/fc/0a/c1/fc0ac14556bfd0208983c86c54461db5.jpg"
+      },
+      {
+        "objeto": "cavalo",
+        "aliases": ["égua", "pônei", "equino"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "fazenda ou haras",
+        "imagem": "https://i.pinimg.com/736x/f7/3e/4b/f73e4bae430e922cb61c83fee7eb1fdd.jpg"
+      },
+      {
+        "objeto": "zebra",
+        "aliases": ["equino listrado"],
+        "cor": "preto e branco",
+        "comestivel": "não",
+        "local": "savana",
+        "imagem": "https://i.pinimg.com/736x/47/7a/94/477a9400f3f576843ba59930b956ae3c.jpg"
+      },
+      {
+        "objeto": "camelo",
+        "aliases": ["dromedário", "camel"],
+        "cor": "marrom claro",
+        "comestivel": "não",
+        "local": "deserto",
+        "imagem": "https://i.pinimg.com/736x/3d/4d/64/3d4d6483fed4457df5b74be885553cd5.jpg"
+      },
+      {
+        "objeto": "porco",
+        "aliases": ["suíno", "pig", "porquinho"],
+        "cor": "rosa",
+        "comestivel": "não",
+        "local": "chiqueiro",
+        "imagem": "https://i.pinimg.com/736x/c4/86/d6/c486d6b2eca9379b591f5c00739eb338.jpg"
+      },
+      {
+        "objeto": "galinha",
+        "aliases": ["frango", "chicken"],
+        "cor": "branca ou marrom",
+        "comestivel": "não",
+        "local": "galinheiro",
+        "imagem": "https://i.pinimg.com/736x/af/76/15/af76152a2b9a03d8f7bdf52b43ba934b.jpg"
+      },
+      {
+        "objeto": "avestruz",
+        "aliases": ["avestruz africana", "ostrich"],
+        "cor": "preta e branca",
+        "comestivel": "não",
+        "local": "savana",
+        "imagem": "https://i.pinimg.com/1200x/23/92/b2/2392b29645d835660049c0bebfe9b68c.jpg"
+      },
+      {
+        "objeto": "canguru",
+        "aliases": ["kangaroo"],
+        "cor": "marrom claro",
+        "comestivel": "não",
+        "local": "Austrália",
+        "imagem": "https://i.pinimg.com/736x/23/f4/44/23f4445a7db6bc76bd1661987b3166c6.jpg"
+      },
+      {
+        "objeto": "tubarão",
+        "aliases": ["tubarao", "shark"],
+        "cor": "cinza ou azul",
+        "comestivel": "não",
+        "local": "oceano",
+        "imagem": "https://i.pinimg.com/736x/9f/41/6d/9f416d268f3dde887c1d8bcad2255e3d.jpg"
+      },
+      {
+        "objeto": "gato",
+        "aliases": ["gatinho", "cat", "felino"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "casa",
+        "imagem": "https://i.pinimg.com/736x/52/bc/44/52bc4460bd5a86d5bb97589b40ba4ed2.jpg"
+      },
+      {
+        "objeto": "rato",
+        "aliases": ["ratinho", "mouse", "camundongo"],
+        "cor": "cinza ou marrom",
+        "comestivel": "não",
+        "local": "esgoto ou cozinha",
+        "imagem": "https://i.pinimg.com/1200x/1f/45/d6/1f45d61474ca83b84f5d259882db6f33.jpg"
+      },
+      {
+        "objeto": "lagartixa",
+        "aliases": ["gecko", "lagarto pequeno"],
+        "cor": "verde ou marrom",
+        "comestivel": "não",
+        "local": "parede ou quintal",
+        "imagem": "https://i.pinimg.com/1200x/0d/0f/8f/0d0f8f70d13d6d11751a6c40ac231b28.jpg"
+      },
+      {
+        "objeto": "torre eiffel",
+        "aliases": ["torre elfel", "eiffel tower", "torre de paris"],
+        "cor": "cinza metálico",
+        "comestivel": "não",
+        "local": "Paris",
+        "imagem": "https://i.pinimg.com/736x/83/fb/56/83fb56a371f800929ada6a180cb0e9d4.jpg"
+      }
+  ]
+ 
