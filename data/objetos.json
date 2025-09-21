@@ -713,6 +713,102 @@
         "comestivel": "não",
         "local": "Paris",
         "imagem": "https://i.pinimg.com/736x/83/fb/56/83fb56a371f800929ada6a180cb0e9d4.jpg"
+      },
+      {
+        "objeto": "jacaré",
+        "aliases": ["jacare", "aligátor", "alligator"],
+        "cor": "verde ou acinzentado",
+        "comestivel": "não",
+        "local": "rios e pântanos",
+        "imagem": "https://i.pinimg.com/736x/dc/e9/4e/dce94e77de071d5d47c1c4d3141d907d.jpg"
+      },
+      {
+        "objeto": "pirâmides do Egito",
+        "aliases": ["piramide", "piramides", "pyramids", "piramides egipcias"],
+        "cor": "amarelada (areia)",
+        "comestivel": "não",
+        "local": "deserto",
+        "imagem": "https://i.pinimg.com/736x/d9/ca/eb/d9caeb3f4925248ceb24a90f18c02ef8.jpg"
+      },
+      {
+        "objeto": "padre",
+        "aliases": ["sacerdote", "priest", "cura"],
+        "cor": "preto ou branco",
+        "comestivel": "não",
+        "local": "igreja",
+        "imagem": "https://i.pinimg.com/736x/7e/d4/81/7ed4814d6fe1c0a62db78aeb57fa1881.jpg"
+      },
+      {
+        "objeto": "freira",
+        "aliases": ["irmã", "religiosa", "sister"],
+        "cor": "preto e branco",
+        "comestivel": "não",
+        "local": "convento ou igreja",
+        "imagem": "https://i.pinimg.com/736x/fc/64/4f/fc644f6f9559bc39f12abfaa463cb511.jpg"
+      },
+      {
+        "objeto": "esfregão",
+        "aliases": ["mop", "rodo com pano"],
+        "cor": "variadas",
+        "comestivel": "não",
+        "local": "lavanderia ou cozinha",
+        "imagem": "https://i.pinimg.com/736x/9b/22/37/9b2237f39c0dc57d36da321b4e132f2f.jpg"
+      },
+      {
+        "objeto": "foca",
+        "aliases": ["seal"],
+        "cor": "cinza ou marrom",
+        "comestivel": "não",
+        "local": "mares gelados",
+        "imagem": "https://i.pinimg.com/736x/39/8c/44/398c442f68b04f92526ea5a5bf0f4951.jpg"
+      },
+      {
+        "objeto": "pinguim",
+        "aliases": ["penguin", "pinguins"],
+        "cor": "preto e branco",
+        "comestivel": "não",
+        "local": "regiões polares",
+        "imagem": "https://i.pinimg.com/736x/b0/78/86/b07886c18d38132af5bf3b8bea312d53.jpg"
+      },
+      {
+        "objeto": "golfinho",
+        "aliases": ["dolphin"],
+        "cor": "cinza",
+        "comestivel": "não",
+        "local": "oceano",
+        "imagem": "https://i.pinimg.com/736x/36/d8/9d/36d89d4ba5532e15c67508d5390a06d1.jpg"
+      },
+      {
+        "objeto": "coruja",
+        "aliases": ["owl"],
+        "cor": "marrom, cinza ou branca",
+        "comestivel": "não",
+        "local": "floresta",
+        "imagem": "https://i.pinimg.com/736x/0b/d9/56/0bd9561466fc5c92f8350a3ea85617f7.jpg"
+      },
+      {
+        "objeto": "raposa",
+        "aliases": ["fox"],
+        "cor": "avermelhada ou marrom",
+        "comestivel": "não",
+        "local": "campo ou floresta",
+        "imagem": "https://i.pinimg.com/736x/1c/4e/29/1c4e29f9140f17129ed7d8c5d9a6ce85.jpg"
+      },
+      {
+        "objeto": "esquilo",
+        "aliases": ["squirrel"],
+        "cor": "marrom ou cinza",
+        "comestivel": "não",
+        "local": "árvores",
+        "imagem": "https://i.pinimg.com/736x/0a/1f/92/0a1f92533ae13d17b45771972ff7b880.jpg"
+      },
+      {
+        "objeto": "urso",
+        "aliases": ["bear"],
+        "cor": "marrom, preto ou branco",
+        "comestivel": "não",
+        "local": "floresta ou montanhas",
+        "imagem": "https://i.pinimg.com/736x/91/91/23/9191235dd23f4938769a0221acb1a06e.jpg"
       }
   ]
  
