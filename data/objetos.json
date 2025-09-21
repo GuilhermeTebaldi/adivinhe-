@@ -809,6 +809,60 @@
         "comestivel": "não",
         "local": "floresta ou montanhas",
         "imagem": "https://i.pinimg.com/736x/91/91/23/9191235dd23f4938769a0221acb1a06e.jpg"
+      }, {
+        "objeto": "Cristo Redentor",
+        "aliases": ["cristo", "cristo redentor", "estatua do cristo", "jesus do rio"],
+        "cor": "cinza claro (pedra)",
+        "comestivel": "não",
+        "local": "montanha",
+        "imagem": "https://i.pinimg.com/1200x/d2/90/68/d29068f7cbff979d29d295b887b8ee73.jpg"
+      },
+      {
+        "objeto": "porco-espinho",
+        "aliases": ["porco espinho", "ouriço terrestre", "hedgehog"],
+        "cor": "marrom com espinhos escuros",
+        "comestivel": "não",
+        "local": "florestas e campos",
+        "imagem": "https://i.pinimg.com/1200x/07/a4/04/07a4049a47119cc03908b8268643f66d.jpg"
+      },
+      {
+        "objeto": "cachorro-quente",
+        "aliases": ["cachorro quente", "hot dog", "hotdog"],
+        "cor": "amarelo e vermelho (pão e molho)",
+        "comestivel": "sim",
+        "local": "lanchonete ou cozinha",
+        "imagem": "https://i.pinimg.com/736x/02/fc/5c/02fc5c536ac5ea18f2c168b4e77c2c43.jpg"
+      },{
+        "objeto": "uva",
+        "aliases": ["uvas", "grape", "grapes"],
+        "cor": "roxa, verde ou vermelha",
+        "comestivel": "sim",
+        "local": "cozinha ou parreira",
+        "imagem": "https://i.pinimg.com/736x/e1/05/86/e10586376b9ff65944d65c30722774b4.jpg"
+      },
+      {
+        "objeto": "melancia",
+        "aliases": ["melancias", "watermelon"],
+        "cor": "verde por fora, vermelha por dentro",
+        "comestivel": "sim",
+        "local": "cozinha ou feira",
+        "imagem": "https://i.pinimg.com/736x/6b/65/c2/6b65c2565ad8e6ab6c7a1fb2d3155cf1.jpg"
+      },
+      {
+        "objeto": "abacaxi",
+        "aliases": ["abacaxis", "pineapple"],
+        "cor": "amarelo com casca marrom e verde",
+        "comestivel": "sim",
+        "local": "cozinha ou feira",
+        "imagem": "https://i.pinimg.com/1200x/c0/b4/61/c0b461720a3ca2994c3850e48d6beafb.jpg"
+      },
+      {
+        "objeto": "joaninha",
+        "aliases": ["joaninas", "ladybug", "ladybird"],
+        "cor": "vermelha com pintas pretas",
+        "comestivel": "não",
+        "local": "jardim ou plantas",
+        "imagem": "https://i.pinimg.com/1200x/5d/d3/20/5dd3208950534590fed2d5e3a552c25c.jpg"
       }
   ]
  
