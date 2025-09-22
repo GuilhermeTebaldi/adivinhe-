@@ -361,7 +361,7 @@
         "aliases": ["refri", "soda", "coca", "guaraná"],
         "cor": "variadas",
         "comestivel": "sim",
-        "local": "geladeira",
+        "local": "geladeira - refrescante - tem gaz",
         "imagem": "https://i.pinimg.com/736x/cb/ed/a7/cbeda788f9d3b281e6736e223c63d38e.jpg"
       },
       {
@@ -369,7 +369,7 @@
         "aliases": ["chips", "snack", "suja os dedos"],
         "cor": "variadas",
         "comestivel": "sim",
-        "local": "sala ou festa",
+        "local": "sala ou festa - pacote",
         "imagem": "https://i.pinimg.com/736x/6d/4f/d3/6d4fd3e58038d75e49a5419bb56e06ea.jpg"
       },
       {
@@ -377,12 +377,12 @@
         "aliases": ["creme de avelã", "chocolate"],
         "cor": "marrom",
         "comestivel": "sim",
-        "local": "cozinha doce",
+        "local": "cozinha - doce - crianças adoram",
         "imagem": "https://i.pinimg.com/736x/b3/b5/07/b3b50728d3b4899dc30a1093167b52ed.jpg"
       },
       {
         "objeto": "hambúrguer",
-        "aliases": ["hamburguer", "burger", "lanche"],
+        "aliases": ["hamburguer", "burger", "lanche", "amburguer"],
         "cor": "variadas",
         "comestivel": "sim",
         "local": "lanchonete",
@@ -399,7 +399,7 @@
       {
         "objeto": "ovo",
         "aliases": ["egg"],
-        "cor": "branco ou marrom",
+        "cor": "branco ou marrom por fora e amarelo por dentro",
         "comestivel": "sim",
         "local": "cozinha",
         "imagem": "https://i.pinimg.com/736x/85/60/1a/85601a673a671fdc55c28bb3d5e34226.jpg"
@@ -409,7 +409,7 @@
         "aliases": ["lesma com concha", "snail", "lesma"],
         "cor": "marrom",
         "comestivel": "não",
-        "local": "jardim",
+        "local": "jardim - gosma",
         "imagem": "https://i.pinimg.com/736x/90/93/f4/9093f499e767b1dde608900a2c38d52f.jpg"
       },
       {
