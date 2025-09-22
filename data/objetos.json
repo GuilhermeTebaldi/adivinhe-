@@ -551,7 +551,7 @@
         "aliases": ["dron", "voador", "aeronave"],
         "cor": "preto ou branco",
         "comestivel": "não",
-        "local": "céu",
+        "local": "céu - bateria",
         "imagem": "https://i.pinimg.com/1200x/e7/a2/83/e7a2834deb0943a4bb929316699236b0.jpg"
       },
       {
