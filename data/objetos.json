@@ -599,7 +599,7 @@
         "aliases": ["chimpanzé", "gorila", "monkey"],
         "cor": "marrom",
         "comestivel": "não",
-        "local": "floresta",
+        "local": "floresta - come na arvore",
         "imagem": "https://i.pinimg.com/736x/b6/46/b0/b646b057c51050a1493b30e58a29708f.jpg"
       },
       {
@@ -607,15 +607,15 @@
         "aliases": ["jegue", "jumento"],
         "cor": "cinza",
         "comestivel": "não",
-        "local": "fazenda",
+        "local": "fazenda - leva peso",
         "imagem": "https://i.pinimg.com/736x/20/c5/4b/20c54b134e2e3a1e4b246f52fbea8e0c.jpg"
       },
       {
         "objeto": "boi",
         "aliases": ["touro", "vaca macho"],
         "cor": "marrom ou preto",
-        "comestivel": "não",
-        "local": "fazenda",
+        "comestivel": "vegetariano não",
+        "local": "fazenda - corno ",
         "imagem": "https://i.pinimg.com/736x/fc/0a/c1/fc0ac14556bfd0208983c86c54461db5.jpg"
       },
       {
@@ -623,7 +623,7 @@
         "aliases": ["égua", "pônei", "equino"],
         "cor": "variadas",
         "comestivel": "não",
-        "local": "fazenda ou haras",
+        "local": "fazenda - pode usalo para se locomover",
         "imagem": "https://i.pinimg.com/736x/f7/3e/4b/f73e4bae430e922cb61c83fee7eb1fdd.jpg"
       },
       {
@@ -799,7 +799,7 @@
         "aliases": ["squirrel"],
         "cor": "marrom ou cinza",
         "comestivel": "não",
-        "local": "árvores",
+        "local": "árvores - nozes",
         "imagem": "https://i.pinimg.com/736x/0a/1f/92/0a1f92533ae13d17b45771972ff7b880.jpg"
       },
       {
