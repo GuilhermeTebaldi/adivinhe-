@@ -677,9 +677,9 @@
       {
         "objeto": "tubarão",
         "aliases": ["tubarao", "shark"],
-        "cor": "cinza ou azul",
-        "comestivel": "não",
-        "local": "oceano",
+        "cor": "cinza",
+        "comestivel": "não é normal",
+        "local": "oceano - dentes enormes",
         "imagem": "https://i.pinimg.com/736x/9f/41/6d/9f416d268f3dde887c1d8bcad2255e3d.jpg"
       },
       {
@@ -687,7 +687,7 @@
         "aliases": ["gatinho", "cat", "felino"],
         "cor": "variadas",
         "comestivel": "não",
-        "local": "casa",
+        "local": "casa - animal",
         "imagem": "https://i.pinimg.com/736x/52/bc/44/52bc4460bd5a86d5bb97589b40ba4ed2.jpg"
       },
       {
