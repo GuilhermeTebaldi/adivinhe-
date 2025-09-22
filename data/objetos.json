@@ -44,7 +44,7 @@
       "aliases": ["bananinha"],
       "cor": "amarela",
       "comestivel": "sim",
-      "local": "cozinha",
+      "local": "cozinha ou fruteira",
       "imagem": "https://i.pinimg.com/1200x/e2/ae/7b/e2ae7be2bc7647062f396f2a77da5f39.jpg"
     },
     {
@@ -98,9 +98,9 @@
     {
       "objeto": "ventilador",
       "aliases": ["ventoinha", "fan"],
-      "cor": "variadas",
+      "cor": "variadas mais usado o branco",
       "comestivel": "não",
-      "local": "quarto",
+      "local": "quarto para refrescar",
       "imagem": "https://i.pinimg.com/736x/af/2d/83/af2d83a8d0e6a3fa28384e513a0e03ce.jpg"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "objeto": "janela",
-      "aliases": ["window"],
+      "aliases": ["window", "vidro", "janel"],
       "cor": "variadas",
       "comestivel": "não",
       "local": "parede",
@@ -172,15 +172,15 @@
       "aliases": ["door"],
       "cor": "variadas",
       "comestivel": "não",
-      "local": "parede",
+      "local": "parede usada para passar",
       "imagem": "https://i.pinimg.com/1200x/b0/3b/18/b03b18306086fb6d1b85d8af30c5c216.jpg"
     },
     {
       "objeto": "cadeira",
-      "aliases": ["chair"],
+      "aliases": ["chair", "cadeiras"],
       "cor": "variadas",
       "comestivel": "não",
-      "local": "sala ou cozinha",
+      "local": "sala ou cozinha 4 pés",
       "imagem": "https://i.pinimg.com/736x/1e/0c/d6/1e0cd695d899ba842c4a13ebc1a1b66d.jpg"
     },
     {
@@ -188,7 +188,7 @@
       "aliases": ["tv", "televisao"],
       "cor": "preta ou variadas",
       "comestivel": "não",
-      "local": "sala",
+      "local": "sala de estar",
       "imagem": "https://i.pinimg.com/736x/11/f3/5c/11f35cbd391116cca8075b438b6ad50f.jpg"
     },
     {
@@ -196,7 +196,7 @@
       "aliases": ["controle", "remote"],
       "cor": "preto",
       "comestivel": "não",
-      "local": "sala",
+      "local": "em cima do sofa - sala",
       "imagem": "https://i.pinimg.com/736x/21/af/ce/21afceff12dd7a0eb420036798d57c10.jpg"
     },
     {
@@ -204,7 +204,7 @@
       "aliases": ["telefone", "smartphone", "phone"],
       "cor": "variadas",
       "comestivel": "não",
-      "local": "bolso ou mesa",
+      "local": "bolso - mesa - mãos",
       "imagem": "https://i.pinimg.com/736x/ef/e7/0d/efe70dba1c6ad363102341d0f75aa01d.jpg"
     },
     {
@@ -220,7 +220,7 @@
       "aliases": ["urso", "ursinho", "pelucia", "teddy bear"],
       "cor": "variadas",
       "comestivel": "não",
-      "local": "quarto",
+      "local": "quarto - criança - brinquedo ",
       "imagem": "https://i.pinimg.com/736x/79/33/dc/7933dc5efd1d4011ab7dcbd38e8a5ca5.jpg"
     },
     {
@@ -228,7 +228,7 @@
       "aliases": ["pizza"],
       "cor": "variadas",
       "comestivel": "sim",
-      "local": "cozinha ou geladeira",
+      "local": "cozinha - geladeira - lanchinete ",
       "imagem": "https://i.pinimg.com/736x/8c/6d/8c/8c6d8c08fae98c13931553535720bb38.jpg"
     },
     {
@@ -241,10 +241,10 @@
     },
     {
       "objeto": "Pikachu",
-      "aliases": ["pikachu", "poke", "pokemon"],
+      "aliases": ["pikachu", "poke", "pokemon", "picachu"],
       "cor": "amarelo",
       "comestivel": "não",
-      "local": "desenho animado",
+      "local": "desenho animado chocante",
       "imagem": "https://i.pinimg.com/1200x/d7/f1/01/d7f101fd99343404fef06efb5997ea7c.jpg"
     },
     {
@@ -252,15 +252,15 @@
       "aliases": ["minions", "minion"],
       "cor": "amarelo",
       "comestivel": "não",
-      "local": "filme e desenho animado",
+      "local": "filme - desenho animado - personagem baixo geralmente com um olho ou dois",
       "imagem": "https://i.pinimg.com/736x/71/bb/25/71bb25d757313aec2a357d7b545b5513.jpg"
     },
     {
       "objeto": "Bob Esponja",
-      "aliases": ["bob esponja", "spongebob"],
+      "aliases": ["bob esponja", "spongebob", "bob"],
       "cor": "amarelo",
       "comestivel": "não",
-      "local": "fundo do mar",
+      "local": "desenho - fundo do mar",
       "imagem": "https://i.pinimg.com/736x/29/de/a7/29dea7c0c694059274ded5b5508b780d.jpg"
     },
     {
@@ -268,7 +268,7 @@
       "aliases": ["pepino em conserva", "pickle", "pickles"],
       "cor": "verde",
       "comestivel": "sim",
-      "local": "cozinha",
+      "local": "cozinha - salada",
       "imagem": "https://i.pinimg.com/736x/a0/57/8f/a0578fb02ac316e44756fdd8b10c5458.jpg"
     },
     {
@@ -289,7 +289,7 @@
         "objeto": "batman",
         "aliases": ["bat-man", "mocego", "bat", "homem morcego", "batman"],
         "cor": "escuro preto",
-        "comestivel": "a china come tmabem tem a ver com o ( covid19 ) ",
+        "comestivel": "a china come ",
         "local": "personagem de desenho animado",
         "imagem": " https://i.pinimg.com/736x/ab/0b/f0/ab0bf03f57901952bc067f54978ef8bc.jpg"
       },
@@ -312,9 +312,9 @@
       {
         "objeto": "wifi",
         "aliases": ["wi-fi", "wi fi", "internet", "roteador", "sinal de wifi"],
-        "cor": "branco e azul",
+        "cor": "branco - azul - preto",
         "comestivel": "não",
-        "local": "casa ou escola normalmente em cima de um balcão ",
+        "local": "casa ou escola normalmente em cima de um balcão - emite sinal ",
         "imagem": "https://i.pinimg.com/736x/62/70/a9/6270a9ccb5b1bdae5739eafa541e86a4.jpg"
       },
       {
@@ -423,9 +423,9 @@
       {
         "objeto": "Bart Simpson",
         "aliases": ["bart", "simpsons", "bart simpsons"],
-        "cor": "amarelo",
+        "cor": "amarelo ",
         "comestivel": "não",
-        "local": "desenho animado",
+        "local": "desenho animado que consegue prever o futuro",
         "imagem": "https://i.pinimg.com/736x/d3/21/e4/d321e4bab4f969f4ef3d7115aa7ca333.jpg"
       },
       {
@@ -462,7 +462,7 @@
       },{
         "objeto": "Jesus",
         "aliases": ["jesus cristo", "cristo", "christ", "jesuscristo"],
-        "cor": "diversas",
+        "cor": "nao a cor",
         "comestivel": "não",
         "local": "religião cristã",
         "imagem": "https://i.pinimg.com/1200x/1a/4e/34/1a4e3435dfbeeb49c00d595b89a8574a.jpg"
@@ -470,7 +470,7 @@
       {
         "objeto": "Deus",
         "aliases": ["god", "senhor", "criador"],
-        "cor": "diversas",
+        "cor": "não a cor",
         "comestivel": "não",
         "local": "religião",
         "imagem": "https://i.pinimg.com/736x/2a/60/06/2a6006b5d3c7a4635f4a5f80f6130342.jpg"
@@ -528,7 +528,7 @@
         "aliases": ["eua", "usa", "estados unidos", "us flag", " estados unidos"],
         "cor": "vermelho, branco e azul",
         "comestivel": "não",
-        "local": "EBandeira",
+        "local": "Bandeira",
         "imagem": "https://i.pinimg.com/736x/50/5f/bd/505fbd65cab9e9802c013f0f25a8e98f.jpg"
       },
       {
@@ -631,15 +631,15 @@
         "aliases": ["equino listrado"],
         "cor": "preto e branco",
         "comestivel": "não",
-        "local": "savana",
+        "local": "savana - animal",
         "imagem": "https://i.pinimg.com/736x/47/7a/94/477a9400f3f576843ba59930b956ae3c.jpg"
       },
       {
         "objeto": "camelo",
-        "aliases": ["dromedário", "camel"],
+        "aliases": ["dromedário", "camelos"],
         "cor": "marrom claro",
         "comestivel": "não",
-        "local": "deserto",
+        "local": "deserto - animal",
         "imagem": "https://i.pinimg.com/736x/3d/4d/64/3d4d6483fed4457df5b74be885553cd5.jpg"
       },
       {
@@ -724,7 +724,7 @@
       },
       {
         "objeto": "pirâmides do Egito",
-        "aliases": ["piramide", "piramides", "pyramids", "piramides egipcias"],
+        "aliases": ["piramide", "piramides", "pyramids", "piramides egipcias", "egito"],
         "cor": "amarelada (areia)",
         "comestivel": "não",
         "local": "deserto",
@@ -756,7 +756,7 @@
       },
       {
         "objeto": "foca",
-        "aliases": ["seal"],
+        "aliases": ["seal", "peixe", "peixes"],
         "cor": "cinza ou marrom",
         "comestivel": "não",
         "local": "mares gelados",
@@ -783,7 +783,7 @@
         "aliases": ["owl"],
         "cor": "marrom, cinza ou branca",
         "comestivel": "não",
-        "local": "floresta",
+        "local": "floresta - animal que voa",
         "imagem": "https://i.pinimg.com/736x/0b/d9/56/0bd9561466fc5c92f8350a3ea85617f7.jpg"
       },
       {
