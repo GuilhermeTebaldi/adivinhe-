@@ -589,9 +589,9 @@
       {
         "objeto": "sapo",
         "aliases": ["frog", "perereca", "rã", "ra"],
-        "cor": "verde",
-        "comestivel": "não",
-        "local": "pântano",
+        "cor": "verde mais comun",
+        "comestivel": "comestivel em alguns lugares",
+        "local": "umido - lagoa",
         "imagem": "https://i.pinimg.com/736x/f7/29/2b/f7292b9c3fb13414b20ea6a430359e8f.jpg"
       },
       {
