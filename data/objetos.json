@@ -694,13 +694,13 @@
         "objeto": "rato",
         "aliases": ["ratinho", "mouse", "camundongo"],
         "cor": "cinza ou marrom",
-        "comestivel": "não",
+        "comestivel": "não é normal ",
         "local": "esgoto ou cozinha",
         "imagem": "https://i.pinimg.com/1200x/1f/45/d6/1f45d61474ca83b84f5d259882db6f33.jpg"
       },
       {
         "objeto": "lagartixa",
-        "aliases": ["gecko", "lagarto pequeno"],
+        "aliases": ["gecko", "lagarto pequeno", "calango"],
         "cor": "verde ou marrom",
         "comestivel": "não",
         "local": "parede ou quintal",
