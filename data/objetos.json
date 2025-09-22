@@ -345,7 +345,7 @@
         "aliases": ["fritas", "french fries", "batatinhas"],
         "cor": "amarela dourada",
         "comestivel": "sim",
-        "local": "lanchonete",
+        "local": "lanchonete - frita ",
         "imagem": "https://i.pinimg.com/736x/69/b6/ea/69b6ea6b1b5f64a67cbb4f56e1610e15.jpg"
       },
       {
@@ -353,7 +353,7 @@
         "aliases": ["ice cream", "gelado", "picolé"],
         "cor": "variadas",
         "comestivel": "sim",
-        "local": "sorveteria",
+        "local": "gelado - sai de uma maquina",
         "imagem": "https://i.pinimg.com/736x/46/53/43/465343e5c618059114c8416a45979174.jpg"
       },
       {
